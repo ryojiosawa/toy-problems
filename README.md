@@ -1,2 +1,2 @@
-Toy Problems in Java
+Toy Problems
 =================
